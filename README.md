@@ -4,4 +4,4 @@ pnpm install
 
 ### Start development server
 
-pnpm dev"# RateIt-ui" 
+pnpm dev
