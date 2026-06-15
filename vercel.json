@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://contentplatform.runasp.net/api/:path*" },
+    { "source": "/login", "destination": "https://contentplatform.runasp.net/login" },
+    { "source": "/register", "destination": "https://contentplatform.runasp.net/register" },
+    { "source": "/logout", "destination": "https://contentplatform.runasp.net/logout" },
+    { "source": "/update-user-profile", "destination": "https://contentplatform.runasp.net/update-user-profile" },
+    { "source": "/admin-test", "destination": "https://contentplatform.runasp.net/admin-test" },
+    { "source": "/get-user-achievements", "destination": "https://contentplatform.runasp.net/get-user-achievements" }
+  ]
+}
